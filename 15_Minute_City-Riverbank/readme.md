@@ -1,7 +1,7 @@
 
-# GIS Portfolio Projects
+# GIS Portfolio Project
 
-## Project: The 15-Minute City Accessibility Map — Riverbank, CA
+## Project: The 15-Minute City Accessibility Map For Riverbank, CA
 
 ### Overview
 This project analyzes accessibility in Riverbank, California, to determine which neighborhoods can reach essential services such as schools, parks, grocery stores, and healthcare within a 15-minute walk or bike ride. It identifies underserved areas and provides recommendations for improving mobility and equity in Riverbank, CA.
